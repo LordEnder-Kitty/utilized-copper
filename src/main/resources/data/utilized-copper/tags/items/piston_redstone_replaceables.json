@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone",
+    "utilized-copper:copper_nugget"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-03-13 09:12:49 -0500",
+      "minecraft:snowy_taiga": "2023-03-13 09:12:25 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

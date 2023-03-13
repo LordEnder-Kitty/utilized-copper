@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "#C#",
+    "#R#"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "tag": "utilized-copper:piston_iron_replaceables"
+    },
+    "R": {
+      "tag": "utilized-copper:piston_redstone_replaceables"
+    },
+    "#": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}
